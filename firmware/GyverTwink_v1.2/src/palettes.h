@@ -1,6 +1,6 @@
 // в общем это сборник палитр из GyverLamp2
 // я оставил самые подходящие (листай в самый низ)
-
+#pragma once
 #include <FastLED.h>      // лента
 // http://soliton.vm.bytemark.co.uk/pub/cpt-city/
 
